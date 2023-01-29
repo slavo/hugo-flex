@@ -2,6 +2,7 @@
 <html{{ with site.LanguageCode | default site.Language.Lang }} lang="{{ . }}"{{ end }}>
 
 <head>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora">
   {{ block "load_paginator" . }}{{ end }}
   {{ partial "meta.html" . }}
   {{ partial "title.html" . }}
