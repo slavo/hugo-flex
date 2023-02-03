@@ -1,5 +1,5 @@
 body {
-  font-family: Nanum Myeongjo, Lora, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: Literata, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   line-height: 1.6;
   display: flex;
   flex-direction: column;
@@ -64,6 +64,7 @@ code {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: baseline;
+  padding-bottom: 1em;
 }
 
 .Heading-title {
@@ -134,7 +135,6 @@ code {
 }
 
 .u-clickable {
-  font-weight: bold;
   text-decoration: none;
   display: inline-block;
 }
