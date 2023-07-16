@@ -51,6 +51,7 @@ code {
 
 .Banner-heading {
   margin: 0;
+  font-weight: normal;
 }
 
 .Banner-link {
@@ -69,6 +70,11 @@ code {
 
 .Heading-title {
   margin: 1.5rem 0.5rem 0 0;
+  font-weight: 500;
+}
+
+h2, h3, h4, h5 {
+  font-weight: 500;
 }
 
 .Heading-link {
