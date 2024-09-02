@@ -3,7 +3,7 @@ params:
   width: 50rem          # Any length in CSS syntax / leave empty to span page
   divider: \a0          # Any string in CSS syntax / leave empty for no divider
   footer: >-            # HTML spaces (&#32;) are needed before HTML elements
-    Copyright © Slavo Ingilizov 2023
+    Copyright © Slavo Ingilizov 2023-2024
   rss: To subscribe to this RSS feed, copy its address and paste it into your
     favorite feed reader.
   summaries: false      # Set to true to show summaries of posts on homepage
