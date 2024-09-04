@@ -28,6 +28,7 @@ code {
 }
 
 .Banner {
+  font-family: Inter;
   list-style: none;
   display: flex;
   flex-flow: row-reverse wrap-reverse;
@@ -52,6 +53,7 @@ code {
 .Banner-heading {
   margin: 0;
   font-weight: normal;
+  font-size: 1.5em
 }
 
 .Banner-link {
@@ -69,12 +71,15 @@ code {
 }
 
 .Heading-title {
+  font-family: Inter;
   margin: 1.5rem 0.5rem 0 0;
-  font-weight: 500;
+  font-weight: 800;
+  font-size: 1.5em
 }
 
 h2, h3, h4, h5 {
-  font-weight: 500;
+  font-family: Inter;
+  font-weight: 600;
 }
 
 .Heading-link {
